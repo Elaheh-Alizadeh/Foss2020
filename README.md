@@ -1,7 +1,7 @@
 ## This is my website
 
 Finally! My very first website! 
-I will have different sections in this website to practice. From persian cooking recipies to Machine learning ;)
+I will have different sections in this website from persian cooking recipies to Machine learning ;)
 
 My projects as post doc
   In silico labeling of phase contrast images of cells. 
