@@ -8,7 +8,7 @@ I will have different sections in this website from persian cooking recipies to 
   * Development of matehmatical models eplaining bi-stability in $\beta catenin$ localization
   * Predicting kinase functions using unsupervised machine learning methods. 
 
-### Recipies from my conuntry, Iran. 
+### Recipies from my country, Iran. 
  * Safran rice pudding(Shole Zard)
  * ground beef stew( Gheime from ardebil)
  
