@@ -3,8 +3,8 @@
 Finally! My very first website! 
 I will have different sections in this website from persian cooking recipies to Machine learning ;)
 
-My projects as post doc
-  In silico labeling of phase contrast images of cells. 
+## My projects as post doc
+ * In silico labeling of phase contrast images of cells. 
   Development of matehmatical models eplaining bi-stability in $\beta catenin$ localization
   Predicting kinase functions using unsupervised machine learning methods. 
 
