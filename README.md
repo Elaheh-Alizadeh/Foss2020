@@ -3,7 +3,10 @@
 Finally! My very first website! 
 I will have different sections in this website to practice. From persian cooking recipies to Machine learning ;)
 
-
+# My projects as post doc
+## In silico labeling of phase contrast images of cells. 
+## Development of matehmatical models eplaining bi-stability in $\beta catenin$ localization
+## Predicting kinase functions using unsupervised machine learning methods. 
 
 
 ### Markdown
@@ -13,10 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# My projects as post doc
-## In silico labeling of phase contrast images of cells. 
-## Development of matehmatical models eplaining bi-stability in $\beta catenin$ localization
-## Predicting kinase functions using unsupervised machine learning methods. 
+
 
 - Bulleted
 - List
