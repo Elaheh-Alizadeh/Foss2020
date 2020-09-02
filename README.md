@@ -1,8 +1,10 @@
 ## This is my website
 
-You can use the [editor on GitHub](https://github.com/Elaheh-Alizadeh/Foss2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Finally! My very first website! 
+I will have different sections in this website to practice. From persian cooking recipies to Machine learning ;)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
@@ -11,9 +13,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Lets try first header
-## Header 2
-### Header 3
+# My projects as post doc
+## In silico labeling of phase contrast images of cells. 
+## Development of matehmatical models eplaining bi-stability in $\beta catenin$ localization
+## Predicting kinase functions using unsupervised machine learning methods. 
 
 - Bulleted
 - List
