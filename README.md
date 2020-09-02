@@ -3,20 +3,21 @@
 Finally! My very first website! 
 I will have different sections in this website from persian cooking recipies to Machine learning ;)
 
-### My projects as post doc
+### My projects as a postdoc in University of Arizona
   * In silico labeling of phase contrast images of cells. 
   * Development of matehmatical models eplaining bi-stability in $\beta catenin$ localization
   * Predicting kinase functions using unsupervised machine learning methods. 
 
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Elaheh-Alizadeh/Foss2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Recipies from my conuntry, Iran. 
+ * Safran rice pudding(Shole Zard)
+ * ground beef stew( Gheime from ardebil)
+ 
+### My CV
+ * Link to my [Linkedin](https://www.linkedin.com/in/elahehalizadeh/)
+ 
+ 
+ '''markdown'''
+ Image here
+ 
+ 
+ 
