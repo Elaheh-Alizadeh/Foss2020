@@ -12,6 +12,12 @@ I will have different sections in this website from persian cooking recipies to 
  * Safran rice pudding(Shole Zard)
  * ground beef stew( Gheime from ardebil)
  
+### R tutorials for Biologists
+ * Preprocess your data
+ * Add metadata to your data (for 6/96/384 wells plate)
+ * plot and analyze your data
+ 
+ 
 ### My CV
  * Link to my [Linkedin](https://www.linkedin.com/in/elahehalizadeh/)
  
